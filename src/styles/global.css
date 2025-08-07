@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(246, 195, 195);
+}
+
+h1 {
+    font-family: sans-serif;
+    font-size: 30px;
+    color: var(--primary);
+}
